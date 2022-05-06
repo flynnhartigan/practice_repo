@@ -34,5 +34,5 @@ patients_all_city <- allVisits %>%
   dplyr::summarise(number = n())
 
 
-
+###FH
 
